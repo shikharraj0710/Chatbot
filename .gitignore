@@ -1,0 +1,7 @@
+vectorstores/
+.vscode/
+__pycache__/
+.files/
+.chainlit/
+.venv/
+.env

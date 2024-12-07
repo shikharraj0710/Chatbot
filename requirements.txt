@@ -1,0 +1,8 @@
+langchain
+chainlit
+langchain-huggingface
+langchain-community
+sentence-transformers
+faiss-cpu
+pydantic==2.10.1
+pypdf
